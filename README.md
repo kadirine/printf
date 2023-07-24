@@ -133,4 +133,4 @@ Use a local buffer of 1024 chars in order to call write as little as possible.
 
 ----
 ## Collaborators
-[DAISY CHEPKEMOI](https://github.com/chepkemoi796) & [OMAR ZAMRAN](https://github.com/davidson961)
+[mohammed chakouch](https://github.com/medchkk) & [mohamed tikdirine](https://github.com/kadirine)
